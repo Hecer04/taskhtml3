@@ -1,0 +1,122 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.deniz{
+  width: 1550px;
+  height: 450px;
+ background-image: url('https://i.pinimg.com/originals/7b/b3/21/7bb3219a3c543e07a59eaf7fa8ba101a.jpg');
+ background-repeat: no-repeat;
+ background-position: center;
+ background-attachment: fixed;
+ background-size: cover;
+
+}
+.sema1{
+  text-align: center;
+  color: white;
+  top: 100px;
+
+}
+.sema2{
+  text-align: center;
+  color: black;
+  height: 60px;
+  font-size: xx-large;
+  font-weight: 100;
+
+}
+.sema3{
+ text-align: center;
+ color: black;
+ height: 50px;
+ font-size: xx-large; 
+ font-weight: 100;
+ 
+}
+.r4{
+  text-align: center;
+  color: black;
+  height: 60px;
+  font-size: xx-large;
+  font-weight: 100;
+
+}
+p{
+  text-align: center;
+  color: darkslategrey;
+  font-weight: 20px;
+}
+
+.mavi{
+ width: 1550px;
+ height: 350px;
+ color: white;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-attachment: fixed;
+ background-size: cover;
+
+}
+.b3{
+  width: 1550px;
+  height: 400px;
+  background-image: url('https://c.pxhere.com/photos/c7/10/blue_clouds_nature_ocean_sea_water_wave-1178746.jpg!d');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover; 
+
+}
+.b4{
+  width: 1550px;
+ height: 350px;
+ color: white;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-attachment: fixed;
+ background-size: cover;
+
+}
+nav{
+  background: rgb(17, 3, 84);
+ background: linear-gradient(90deg, rgb(49, 37, 126) 15%, rgb(183, 176, 223) 50%, rgb(100, 104, 228) 100%);
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 100px;
+ width:105% ;
+
+}
+ul{
+  list-style: none;
+  display: flex;
+  text-align: center;
+
+}
+h1{
+  margin-right: 700px;
+
+}
+li{
+  margin-right: 40px;
+  color: white;
+  
+}
+
+h1,h3{
+ color:white;
+
+}
+img{
+  width: 155px;
+
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+ 
+}
